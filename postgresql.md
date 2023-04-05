@@ -1,0 +1,2 @@
+The database product PostgreSQL (https://www.postgresql.org/) is an open-source database. It has a relational data model type. 
+It can be hosted in a variety of models including client/server, embedded, and in the cloud. Java can access it by using a JDBC driver. Once the driver is compiled it can be used in any Java system. Similarly Python uses a module which the code is embeded on and then that module. The module is dependent on Python's database API which allows it to connect to the PostgreSQL server. 
