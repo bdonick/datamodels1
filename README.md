@@ -13,3 +13,5 @@ PostgreSQL: postgresql.md
 RazorSQL: razorsql.md
 
 Raima Database Manager(RDM): rdm.md
+
+LucidChart: lucidchart.md
